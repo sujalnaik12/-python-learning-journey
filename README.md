@@ -1,5 +1,10 @@
 # Python Learning Journey
-This repo contains my beginner Python programs.
+
+This repository contains beginner-level Python programs as part of my learning journey.
+
+## Programs Included:
 - Hello World
-- Calculator
+- Simple Calculator
 - Age Checker
+
+More coming soon...
